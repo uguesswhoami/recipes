@@ -1,4 +1,0 @@
-this is git test file .
-please ignore
-now i add something..
-now i add something next.
